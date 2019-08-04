@@ -1,0 +1,83 @@
+.qmmt_main {
+	background: #fff;
+	border: none;
+}
+
+.qmmt_text {
+	font: 11px arial;
+	color: #333333;
+	padding: 2px;
+}
+
+.qmmt_text_up {
+	font: 11px arial;
+	color: #009900;
+}
+
+.qmmt_text_down {
+	font: 11px arial;
+	color: #ff0000;
+}
+
+.qmmt_tab {
+	font: 11px arial;
+	border: 1px solid #cccccc;
+	color: #333333;
+	border-right: none;
+	background-color: #e0dfe3;
+}
+
+.qmmt_tabactive {
+	font: 11px arial;
+	border: 1px solid #cccccc;
+	color: #333333;
+	border-bottom: none;
+	border-right: none;
+}
+
+.qmmt_cycle {
+	background-color: #EDECEE;
+	color: #333333;
+}
+
+.qmmt_header_text {
+	font-family: arial, sans-serif;
+	color: #333333;
+}
+
+.qmmt_header_bar {
+	display: none;
+}
+
+u {
+	color: #003366;
+}
+
+.qmmt_exchangePopup_bg {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	padding: 4px;
+	text-align: left;
+}
+
+.qm_footertext {
+	font: 11px arial;
+}
+
+.qm_footer_rt {
+	font: italic bold 11px arial;
+	color: #008000;
+}
+
+.qm_footer_nonrt {
+	font: italic bold 11px arial;
+	color: #465665;
+}
+
+a.qm_footer, a:visited.qm_footer {
+	color: #0000cc;
+}
+
+a:hover.qm_footer {
+	color: #982645;
+}
