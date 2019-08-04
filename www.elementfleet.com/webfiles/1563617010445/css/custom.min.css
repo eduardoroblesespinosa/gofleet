@@ -815,7 +815,7 @@ h3 {
 
     .nav-pills .menu-item.open > .dropdown-toggle.btn-default, .nav-pills .menu-item.open > .dropdown-toggle.btn-default:hover, .nav.nav-pills > li > a:active, .nav.nav-pills > li > a:hover {
         background-color: #fff;
-        border-bottom: 5px solid #84bd00
+        border-bottom: 5px solid #253993
     }
 
     .nav.nav-pills > li + li {
