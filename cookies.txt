@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.elementfleet.com	TRUE	/	FALSE	1999999999	_visitor	081746f6-2cd3-4916-a959-43f54c40b5c0
+www.elementfleet.com	TRUE	/	FALSE	1999999999	BACKEND	site1
+
