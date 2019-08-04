@@ -988,13 +988,13 @@ h3 {
     .investor-block a {
         height: 36px;
         display: block;
-        background-color: #7C858C;
+        background-color: #253993;
         color: #fff;
         font-size: 14px
     }
 
         .investor-block a:focus, .investor-block a:hover {
-            background-color: #6C6c6C;
+            background-color: #142052;
             text-decoration: none
         }
 
