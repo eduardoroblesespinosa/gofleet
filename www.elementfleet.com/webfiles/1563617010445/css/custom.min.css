@@ -1297,7 +1297,7 @@ h4.section-title {
         background: -webkit-linear-gradient(left,#82c341 0,#82c341 50%,#404040 50%,#404040 100%);
         background: -o-linear-gradient(left,#82c341 0,#82c341 50%,#404040 50%,#404040 100%);
         background: -ms-linear-gradient(left,#82c341 0,#82c341 50%,#404040 50%,#404040 100%);
-        background: linear-gradient(to right,#82c341 0,#82c341 50%,#404040 50%,#404040 100%);
+        background: linear-gradient(to right,#253993 0,#253993 50%,#404040 50%,#404040 100%);
         filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#82c341', endColorstr='#404040', GradientType=1)
     }
 
