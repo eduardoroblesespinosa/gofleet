@@ -565,7 +565,7 @@ h3 {
         border: none;
         border-radius: 0;
         padding: 9px 12px;
-        color: #333;
+        color: #253993;
         height: 36px;
         width: 100%;
         font-size: 12px;
@@ -678,7 +678,7 @@ h3 {
 
     .login .dropdown-toggle.btn-default:active, .login .dropdown-toggle.btn-default:focus, .login .dropdown-toggle.btn-default:hover, .login .dropdown-toggle.btn-default:visited, .login.open > .dropdown-toggle.btn-default {
         color: #fff;
-        background-color: #3e9aca
+        background-color: #142052
     }
 
     .dropdown.login {
@@ -738,7 +738,7 @@ h3 {
     }
 
     .login-wrapper-remarket .login .btn:focus, .login-wrapper-remarket .login .btn:hover {
-        background-color: #3e9aca
+        background-color: #253993
     }
 
     @keyframes slidenavAnimation {
