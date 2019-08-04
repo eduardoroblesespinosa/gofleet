@@ -722,7 +722,7 @@ h3 {
     }
 
     .contact-btn:active, .contact-btn:focus, .contact-btn:hover, .contact-btn:visited {
-        background: #6fa737;
+        background: #142052;
         color: #fff;
         text-decoration: none;
         position: static
@@ -730,11 +730,11 @@ h3 {
 
     .contact-btn .dropdown-toggle.btn-default:active, .contact-btn .dropdown-toggle.btn-default:focus, .contact-btn .dropdown-toggle.btn-default:hover, .contact-btn .dropdown-toggle.btn-default:visited, .contact-btn.open > .dropdown-toggle.btn-default {
         color: #fff;
-        background-color: #6fa737
+        background-color: #142052
     }
 
     .contact-wrapper-remarket .contact-btn .btn:focus, .contact-wrapper-remarket .contact-btn .btn:hover {
-        background-color: #6fa737
+        background-color: #142052
     }
 
     .login-wrapper-remarket .login .btn:focus, .login-wrapper-remarket .login .btn:hover {
