@@ -1447,7 +1447,7 @@ h4.section-title {
     background: #404040;
     background: -moz-linear-gradient(65deg,rgba(64,64,64,1) 0,rgba(64,64,64,1) 60%,rgba(54,54,54,1) 61%,rgba(54,54,54,1) 100%);
     background: -webkit-linear-gradient(65deg,rgba(64,64,64,1) 0,rgba(64,64,64,1) 60%,rgba(54,54,54,1) 61%,rgba(54,54,54,1) 100%);
-    background: linear-gradient(65deg,rgba(64,64,64,1) 0,rgba(64,64,64,1) 60%,rgba(54,54,54,1) 61%,rgba(54,54,54,1) 100%);
+    background: linear-gradient(65deg,rgba(104,42,187,1) 0,rgba(64,64,64,1) 60%,rgba(54,54,54,1) 61%,rgba(54,54,54,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#404040', endColorstr='#363636', GradientType=1)
 }
 
