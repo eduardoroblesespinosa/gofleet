@@ -1991,7 +1991,7 @@ table ul {
     width: 30px;
     height: 5px;
     background: #ffed00;
-    border-radius: 0px;
+    border-radius: 3px;
 }
 
 /*** CONTENT ***/
@@ -2032,7 +2032,7 @@ table ul {
     text-decoration: none;
 
     border: 1px solid #a5b9d3;
-    border-radius: 20px;
+    border-radius: 0px;
 }
 
 
