@@ -306,7 +306,7 @@ table ul {
 .header_linkz_item:first-child { margin-left: 0; }
 
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 967px) {
     .header_linkz_item {
         margin: 0 0 0 10px;
         width: 45px;
