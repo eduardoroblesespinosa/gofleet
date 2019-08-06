@@ -306,7 +306,7 @@ table ul {
 .header_linkz_item:first-child { margin-left: 0; }
 
 
-@media screen and (max-width: 967px) {
+@media screen and (max-width: 767px) {
     .header_linkz_item {
         margin: 0 0 0 10px;
         width: 45px;
@@ -1991,7 +1991,7 @@ table ul {
     width: 30px;
     height: 5px;
     background: #ffed00;
-    border-radius: 3px;
+    border-radius: 0px;
 }
 
 /*** CONTENT ***/
