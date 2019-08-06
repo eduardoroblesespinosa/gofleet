@@ -9,7 +9,7 @@ html { -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 
 /*** COULEURS ************************************/
-.bleu { color: #004196; }
+.bleu { color: #253993; }
 .jaune { color: #ffed00; }
 .noir { color: #282828; }
 
@@ -1922,7 +1922,7 @@ table ul {
     width: 60%;
     height: 100%;
     text-align: center;
-    background: #004196;
+    background: #253993;
 }
 
 @media screen and (min-width: 768px) {
@@ -1947,7 +1947,7 @@ table ul {
     width: 60%;
     height: 100%;
     text-align: center;
-    background: #004196;
+    background: #253993;
 }
 @media screen and (min-width: 768px) {
     #block-views-actualites-block-2 .views-row-2 .views-field-field-ag-image-vignette { width: 60%; }
@@ -2063,7 +2063,7 @@ table ul {
     line-height: 120px;
 
     text-align: center;
-    background: #004196;
+    background: #253993;
 }
 
 /*** FORM ***/
