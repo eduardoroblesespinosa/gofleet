@@ -998,13 +998,13 @@ h3 {
             text-decoration: none
         }
 
+    
+    .logo-wrapper .logo-main {
+        float: left
+    }
     .contact-btn .btn, .login .btn {
         padding: 0 0 0 15px;
         text-align: left
-    }
-
-    .logo-wrapper .logo-main {
-        float: left
     }
 
     .navigation-bar {
