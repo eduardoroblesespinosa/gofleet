@@ -230,25 +230,7 @@ table ul {
 
 
 /*** LOGO ****************************************/
-@media screen and (max-width: 767px) {
-    .header_logo { display: none; }
-    .header_logo_mob {
-        float: left;
-        width: 93px;
-        height: 40px;
-        background: url(../img/logo/header-logo-mini.png) no-repeat center center;
-    }
-}
-@media screen and (min-width: 768px) {
-    .header_logo { float: left; }
-    .header_logo a,
-    .header_logo img {
-        display: block;
-        margin: 0;
-        padding: 0;
-    }
-    .header_logo_mob { display: none; }
-}
+
 
 
 /*** MENU MOB ************************************/
