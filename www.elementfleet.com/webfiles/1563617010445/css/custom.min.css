@@ -772,7 +772,11 @@ h3 {
         padding: 0 10px 0 0
     }
 
-    
+    .logo-wrapper .logo-main {
+        margin: 20px 0;
+        padding: 0;
+        float: none
+    }
 
     .nav {
         display: flex;
@@ -999,7 +1003,9 @@ h3 {
         text-align: left
     }
 
-    
+    .logo-wrapper .logo-main {
+        float: left
+    }
 
     .navigation-bar {
         width: 71%;
